@@ -1,0 +1,39 @@
+(b) EXCEPT IN CONNECTION WITH A BREACH OF ARTICLE XIV HEREUNDER, AND WITH THE EXCEPTION OF THE
+INDEMNIFICATION OBLIGATIONS OF THE PARTIES UNDER ARTICLE X, THE AGGREGATE TOTAL LIABILITY OF EITHER PARTY TO
+THE OTHER PARTY AND TO ALL OTHER PERSONS AND ENTITIES UNDER THIS AGREEMENT SHALL UNDER NO CIRCUMSTANCES
+EXCEED THE AMOUNT OF THE NET REVENUE RECEIVED BY NCM PURSUANT TO SECTION 7.2 OF THIS AGREEMENT DURING THE FIVE
+(5) YEAR PERIOD PRECEDING SUCH LIABILITY, LESS IN ANY CASE THE AGGREGATE OF ANY AMOUNTS PAID BY NCM HEREUNDER
+ON ACCOUNT OF PREVIOUS EVENTS OF LIABILITY.
+
+ARTICLE XI
+ADDITIONAL RIGHTS AND OBLIGATIONS
+
+Section 11.1 Assistance. Each Party, upon the request of the other, shall perform any and all further acts and execute, acknowledge, and
+deliver any and all documents which the other party determines in its sole reasonable judgment may be necessary, appropriate, or desirable to
+carry out the intent and purposes of this Agreement, including without limitation to document, perfect, or enforce NCM’s right, title, or interest in
+and to any NCM Property or Derived Works.
+
+Section 11.2 Infringement. Network Affiliate shall notify NCM promptly, in writing, of any alleged, actual or threatened infringement,
+violation, misappropriation, imitation, simulation, or misuse of or interference with (“Infringement”) any NCM Property or Derived Work of which
+Network Affiliate knows or which Network Affiliate has reason to suspect. NCM has the sole and exclusive right to determine whether to take any
+action on or related to any such Infringements. NCM has the sole right to employ counsel of its choosing and to direct any litigation and
+settlement of Infringement actions. Any recoveries, damages and costs recovered through such proceedings, suits, or hearings shall belong
+exclusively to NCM.
+
+Section 11.3 Non-Competition and Non-Solicitation.
+
+(a) During the Term, except as otherwise provided in this Agreement, Network Affiliate and its affiliates agree not to engage or
+participate in any business, hold equity interests, directly or indirectly, in another entity, whether currently existing or hereafter created, or
+participate in any other joint venture that competes or would compete with any business that NCM is authorized to conduct in the Territory
+pursuant to this Agreement, whether or not NCM is actually conducting such business in a particular portion of the Territory. The foregoing
+restrictions shall not apply (i) in the event Network Affiliate or its affiliate acquires a competing business as an incidental part of an acquisition of
+any other business that is not prohibited by the foregoing, if Network Affiliate disposes of the portion of such business that is a competing
+business as soon as commercially reasonable, (ii) to any direct or indirect ownership or other equity investments by Network Affiliate or its
+affiliates in such other competing business that represents in the aggregate less than 10% of the voting power of all outstanding equity of such
+business, or (iii) in the event Network Affiliate enters into any agreement for the acquisition or installation of equipment or the provision of
+services on customary terms that does not violate the exclusivity of NCM hereunder with any entity that has other businesses and provides other
+services that may compete with NCM.
+
+25
+
+Source: DIGITAL CINEMA DESTINATIONS CORP., S-1, 12/20/2011

@@ -1,0 +1,34 @@
+(b) Services Disclaimer. NCM DISCLAIMS ALL REPRESENTATIONS AND WARRANTIES THAT THE SERVICE WILL BE
+UNINTERRUPTED OR ERROR-FREE AND DISCLAIMS ANY WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE WITH REGARD
+TO THE SERVICES.
+
+ARTICLE X
+INDEMNIFICATION
+
+Section 10.1 Network Affiliate Indemnification. Network Affiliate shall defend, indemnify, and hold harmless NCM and its officers,
+directors, shareholders, contractors, employees, representatives, agents, successors, and assigns (collectively, “Representatives” from and
+against any and all losses, obligations, risks, costs, liabilities, settlements, damages, judgments, awards, fines, penalties, and expenses (including,
+without limitation, reasonable attorneys’ fees) (collectively, “Costs”) suffered or incurred in connection with or as a result of, and from and against
+any and all third party claims, suits, actions, or proceedings actually or allegedly arising out of, based upon, or relating to, (1) any breach by
+Network Affiliate of Article IX, (ii) infringement by any information, content or other materials supplied by or on behalf of Network Affiliate
+hereunder (including the Brand) of any third party U.S. patent, trademark, or copyright right arising from NCM’s use of such materials in
+accordance and compliance with this Agreement, provided such Costs have been finally awarded by a court of competent jurisdiction or approved
+by Network Affiliate as part of a settlement, (iii) any use of any NCM Property other than as authorized by this Agreement, or (iv) Network
+Affiliate’s fraud, willful misconduct, or noncompliance with law.
+
+Section 10.2 NCM General Indemnification. NCM shall defend, indemnify, and hold harmless Network Affiliate and its Representatives
+from and against any and all Costs suffered or incurred in connection with or as a result of, and from and against any and all third party claims,
+suits, actions, or proceedings actually or allegedly arising out of, based upon, or relating to, (i) any breach by NCM of Article IX, or (ii) NCM’s
+fraud, willful misconduct, or noncompliance with law.
+
+Section 10.3 NCM Infringement Indemnification.
+
+(a) Indemnifications Obligations. NCM shall defend, indemnify and hold harmless Network Affiliate and its Representatives
+from and against any and all Costs suffered or incurred arising from any and all third party claims, suits, actions, or proceedings to the extent
+actually or allegedly arising out of, based upon, or relating to any infringement by the NCM Property (but excluding any Equipment) of any third
+party U.S. trademark, copyright, or patent issued as of the Effective Date, arising from Network Affiliate’s use of the NCM Property in accordance
+and compliance with this Agreement.
+
+23
+
+Source: DIGITAL CINEMA DESTINATIONS CORP., S-1, 12/20/2011

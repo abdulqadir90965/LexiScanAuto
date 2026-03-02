@@ -1,0 +1,41 @@
+(a) The other Party breaches any material provision of this Agreement, other than any provision of Section 14.8 or Articles V or
+XIIL and fails to cure such breach within thirty (30) days after receipt from the terminating party of written notice of the breach.
+
+(b) The other Party breaches any provision of Section or 14.8 or Articles V or XIII, and, to the extent such breach is susceptible
+to cure, fails to cure such breach within five (5) days after receipt from the terminating party of written notice of the breach. Notwithstanding
+anything else to the contrary herein, if the breach is not susceptible to cure, this Agreement will terminate immediately as of such breach, with or
+without any notice from the terminating party.
+
+(c) (i) A voluntary petition is commenced by the other Party under the United States Bankruptcy Code, as amended, 11 U.S.C. §
+101 et seq., (ii) the other Party has an involuntary petition commenced against it under the Bankruptcy Code and such petition is not dismissed
+within sixty (60) days after filing, (iii) the other Party becomes insolvent, (iv) any substantial part of the other Party’s property becomes subject to
+any levy, seizure, assignment, application, or sale for or by any creditor or governmental agency, or (v) the other Party liquidates or otherwise
+discontinues all or most of that portion of its business operations which are related to this Agreement.
+
+Section 8.3 Termination by NCM. NCM may terminate this Agreement upon thirty (30) days written notice to Network Affiliate in the
+event that distribution of the Service to all of the Theatres listed on Exhibit B is permanently discontinued.
+
+Section 8.4 Survival. Sections 2.3, 5.2, 5.3, 5.4, 8.4, 8.5, 11.1, 11.2, 11.3 and 11.6 and Articles VII, IX, X, XII, and XV shall survive any
+expiration or termination of this Agreement.
+
+Section 8.5 Effect of Termination. Upon termination or expiration of this Agreement, and upon reasonable prior notice to Network
+Affiliate, NCM shall be entitled to enter the Theatres upon reasonable prior written notice, and any other premises of Network Affiliate where any
+NCM Property may be located, and recover any and all NCM Property, unless Network Affiliate chooses to purchase such Property based on a
+straight line five year depreciated value. In addition, each Party shall promptly deliver to the other or, at the other Party’s option, permit the other
+Party to enter its premises and recover any Equipment in the first Party’s possession, custody or control which may be owned by the other Party
+pursuant to Section 2.3 hereof. Each Party shall fully cooperate in this effort. NCM shall be obligated to restore all premises from which it removes
+NCM Property or Equipment to its previous condition, reasonable wear and tear excepted. In addition, any and all licenses granted by either party
+to the other under this Agreement shall immediately terminate, and NCM shall be entitled to immediately discontinue the Service. Notwithstanding
+termination of this Agreement, each party shall pay to the other, within five (5) days after the effective date of such termination, any and all fees
+(including costs and expenses) owed hereunder as of such termination.
+
+Section 8.6 Suspension of Services. On the occurrence of any event which would permit NCM to terminate this Agreement, in addition to
+any and all other rights and remedies to which NCM may be entitled at law or in equity, NCM may, without terminating this Agreement, and in its
+sole discretion and without further notice to Network Affiliate, suspend performance of any or all of its obligations under this Agreement
+(including, without limitation, by activating internal controls in systems or software that are designed to deny Network Affiliate use of or access to
+NCM Property) until and unless NCM determines, in its sole discretion and upon whatever conditions NCM chooses to impose on Network
+Affiliate, to resume performance of some or all of the suspended obligations.
+
+21
+
+Source: DIGITAL CINEMA DESTINATIONS CORP., S-1, 12/20/2011

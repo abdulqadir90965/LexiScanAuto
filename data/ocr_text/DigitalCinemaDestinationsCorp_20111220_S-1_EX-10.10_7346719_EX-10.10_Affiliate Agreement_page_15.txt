@@ -1,0 +1,42 @@
+Section 5.2 Software Restrictions. Network Affiliate acknowledges that the Software and any and all components thereof constitute
+valuable trade secrets of NCM or its affiliates or licensors. Accordingly, except as may be expressly permitted under this Agreement, Network
+Affiliate shall not, nor shall it permit, cause, or authorize any other person or entity to:
+
+(a) Use the Software for any purpose, at any location, or otherwise access the Software in any manner not specifically authorized
+by this Agreement;
+
+(b) Make or retain any copy of the Software, except as specifically authorized by this Agreement;
+(c) Re-engineer, reverse engineer, decompile, or disassemble the Software or create or recreate the source code for the Software;
+
+(d) Modify, adapt, translate, or create derivative works based upon the Software, or combine or merge any part of the Software
+with or into any other software or documentation;
+
+(e) Refer to or otherwise use the Software as part of any effort to develop a program having any functional attributes, visual
+expression, or other features similar to those of the Software or to compete with NCM or its affiliates;
+
+(f) Remove, erase, or tamper with any copyright or other proprietary notice printed or stamped on, affixed to, or encoded or
+recorded in the Software, or fail to preserve all copyright and other proprietary notices in any copy of the Software made by Network Affiliate to
+the extent copying is permitted by this Agreement;
+
+(g) Sell, market, license, sublicense, distribute, or otherwise grant to any person or entity any right to use the Software or
+Documentation;
+
+(h) Use the Software to conduct any type of service bureau or time-sharing operation or to provide remote processing, network
+processing, network telecommunications, or similar services to any person or entity, whether on a fee basis or otherwise; or
+
+(i) Attempt to do any of the foregoing.
+Section 5.3 License of the NCM Marks.
+
+(a) Subject to the terms and conditions of this Agreement and such other standards, trademark usage guidelines and
+specifications as are prescribed by NCM during the term of this Agreement (the “NCM Quality Standards”), NCM hereby grants to Network
+Affiliate, and Network Affiliate hereby accepts, a non-exclusive, non-transferable (except in connection with an assignment of this Agreement in
+accordance with Section 14.8 hereof), non-sublicenseable, limited license (i) to use the NCM Marks solely in connection with its receipt and
+exhibition of the Service, as approved by NCM in writing in advance, and (ii) to use the NCM Marks in marketing or advertising materials
+(“Marketing Materials”) that have been approved by NCM pursuant to the terms hereof. Network Affiliate acknowledges that NCM is and shall
+remain the sole owner of the NCM Marks, including the goodwill of the business symbolized thereby. Network Affiliate recognizes the value of the
+goodwill associated with the NCM Marks and acknowledges and agrees that any goodwill arising out of the use of the NCM Marks or any of them
+by Network Affiliate shall inure to the sole benefit of NCM for all purposes hereof.
+
+15
+
+Source: DIGITAL CINEMA DESTINATIONS CORP., S-1, 12/20/2011

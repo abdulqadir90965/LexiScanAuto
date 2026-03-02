@@ -1,0 +1,36 @@
+(c) MA shall not continue to use or employ any part of the Technology as part
+of any product which MA shall convey, assign, lease, license or transfer to
+any third parties;
+
+(d) MA shall immediately cease advertising, marketing, promoting and
+distributing the Technology and shall cease using the trade names,
+trademarks, service marks and any other proprietary right of Company;
+
+(e) Except as otherwise permitted in writing by Company, MA shall
+immediately cease selling Annual Technology Maintenance and providing
+application and technical support for the Technology to Clients;
+
+(f) All outstanding invoices shall immediately become due and payable; and
+
+(g) MA acknowledges and agrees that, in the event of a breach or threatened
+breach by MA, of the provisions of this Section 18, no adequate remedy at
+law in money damages will be available to Company that will fairly
+compensate it and therefore Company will be entitled to an injunction
+against any such breach or threatened breach by MA.
+
+19. Confidential Information.
+
+19.1 "Confidential Information" Defined. “Confidential Information” includes: (a) the
+Technology (b) any personally identifiable data or information regarding any end user;
+(c) any and all information disclosed by Company to MA, in whatever format, that is
+either identified as or would reasonably be understood to be confidential and/or
+proprietary; (d) any notes, extracts, analyses or materials prepared by MA which are
+copies of or derivative works of Confidential Information or from which Confidential
+Information can be inferred or otherwise understood; and (e) the terms and conditions
+of this Agreement. “Confidential Information” does not include information received
+from Company that MA can clearly establish by written evidence: (x) is or becomes
+known to MA from a third party without an obligation to maintain its confidentiality; (y)
+is or becomes generally known to the public through no act or omission of MA; or (z) is
+independently developed by MA without the use of Confidential Information.
+
+Source: CYBERGY HOLDINGS, INC., 10-Q, 5/20/2014

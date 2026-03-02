@@ -1,0 +1,40 @@
+“Branded Slots” has the meaning assigned to it in Section 3.6(b).
+“Change of Control” has the meaning assigned to it in Section 14.8.
+
+“Confidential Information” means any and all technical and non-technical information of or related to either Party, including, without
+limitation, proprietary information, know-how, the NCM Property and Derived Works, and information related to or regarding either Party’s
+research and development, finances, suppliers, customers, business forecasts, and marketing plans, in whatever form disclosed or made available.
+Confidential Information does not include information which: (i) the recipient can demonstrate was already known to it at the time of its receipt
+hereunder; (ii) is or becomes generally available to the public other than by means of the recipient's breach of its obligations under this
+Agreement; (iii) is independently obtained from a third party whose disclosure violates no duty of confidentiality; or (iv) is independently
+developed by or on behalf of the recipient without use of or reliance on any Confidential Information furnished to it under this Agreement.
+
+“Costs” has the meaning assigned to it in Section 10.1.
+
+“Derived Works” has the meaning assigned to it in Section 12.2.
+
+“Digital Carousel” means a loop of slide advertising with minimal branding and entertainment content which (i) is displayed before the
+Pre-Feature Program in Digitized Theatres via the Digital Content Network and (ii) is displayed before the Traditional Content Program in Non-
+Digitized Theatres via a non-digital slide projector.
+
+“Digital Cinema Services” means services related to the digital playback and display of feature films at a level of quality commensurate
+with that of 35 mm film release prints that include high-resolution film scanners, digital image compression, high-speed data networking and
+storage, and advanced digital projections.
+
+“Digital Content Network” means a network of Equipment and third-party equipment and other facilities which provides for the
+electronic transmission of digital content, directly or indirectly, from a centrally-controlled location to Theatres, resulting in the “on-screen”
+exhibition of such content in such Theatres, either in Theatre auditoriums or on Lobby Screens.
+
+“Digital Content Service” means the Pre-Feature Program, Policy Trailer and the Video Display Program.
+
+“Digitized Theatres” means all Theatres that are connected to the Digital Content Network as of the Effective Date and all Theatres that
+subsequently connect to the Digital Content Network, as of the date such connection is established.
+
+“Dispositions” has the meaning assigned to it in Section 2.6.
+“Effective Date” has the meaning assigned to it in Section 3.1.
+“Equipment” means (a) the equipment and cabling which is necessary to schedule, distribute, play, reconcile and otherwise transmit and
+
+receive transmission of the Digital Cinema Service, known as “small d Equipment”; and (b) the equipment and cabling which is necessary to
+schedule, distribute, play, reconcile and otherwise transmit and receive transmission of the Digital Cinema Service, known as “Big D Equipment”.
+
+Source: DIGITAL CINEMA DESTINATIONS CORP., S-1, 12/20/2011

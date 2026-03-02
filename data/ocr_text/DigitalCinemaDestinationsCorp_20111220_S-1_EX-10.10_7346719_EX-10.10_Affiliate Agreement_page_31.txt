@@ -1,0 +1,35 @@
+Section 14.8 Assignment. Network Affiliate may not assign or transfer, by operation of law or otherwise, any of its rights under this
+Agreement or delegate any of its duties under this Agreement to any third party without NCM’s prior written consent, which consent shall not be
+unreasonably withheld, conditioned or delayed. For the purposes of this Agreement, any change of control, merger, consolidation, or acquisition
+of all or substantially all of the assets of Network Affiliate (collectively, a “Change of Control”) shall be deemed an assignment. This Agreement
+shall not be assignable by either party unless the assignee expressly assumes in writing the obligations of the assignor hereunder. Any attempted
+assignment in violation of this section shall be void.
+
+Section 14.9 Force Majeure. Any delay in the performance of any duties or obligations of either party (except the payment of money
+owed) will not be considered a breach of this Agreement if such delay is caused by a labor dispute, shortage of materials, fire, earthquake, flood, or
+any other event beyond the control of such party, provided that such party uses reasonable efforts, under the circumstances, to notify the other
+party of the circumstances causing the delay and to resume performance as soon as possible.
+
+Section 14.10 Third Party Beneficiary. The parties hereto do not intend, nor shall any clause be interpreted, to create under this
+Agreement any obligations or benefits to, or rights in, any third party from either NCM or Network Affiliate. Neither party hereto is granted any
+right or authority to assume or create any obligation or responsibility, express or implied, on behalf of, or in the name of, the other party, or to bind
+the other party in any matter or thing whatever. No affiliate of NCM shall have any liability or obligation pursuant to this Agreement. NCM shall be
+solely responsible, and Network Affiliate agrees to look solely to NCM, for the satisfaction of NCM’s obligations under this Agreement.
+
+Section 14.11 Export. Network Affiliate acknowledges that the Software and the Confidential Information of NCM are subject to the
+export controls of the United States. Network Affiliate acknowledges that it has no right to, and further agrees that it will not, export or otherwise
+transfer or permit the transfer of any Software or Confidential Information of NCM outside the United States. Network Affiliate will defend,
+indemnify, and hold harmless NCM from and against all fines, penalties, liabilities, damages, costs, and expenses incurred by NCM as a result of
+any failure to comply with the preceding sentence.
+
+Section 14.12 Independent Contractors. Network Affiliate’s relationship to NCM is that of an independent contractor, and neither party
+is an agent or partner of the other. Network Affiliate will not have, and will not represent to any third party that it has, any authority to act on
+behalf of NCM.
+
+Section 14.13 Counterparts. This Agreement may be executed in any number of separate counterparts each of which when executed and
+delivered to the other party hereto shall be an original as against the party whose signature appears thereon, but all such counterparts shall
+together constitute one and the same instrument.
+
+31
+
+Source: DIGITAL CINEMA DESTINATIONS CORP., S-1, 12/20/2011

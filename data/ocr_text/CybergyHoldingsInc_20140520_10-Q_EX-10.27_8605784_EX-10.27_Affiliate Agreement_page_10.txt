@@ -1,0 +1,48 @@
+17. Warranties by MA.
+
+MA agrees that any and all warranties made to Client shall be made only by MA. MA
+acknowledges and agrees that MA will make no representations to its Clients with respect to any
+warranty made by Company. MA hereby agrees to indemnify and hold Company harmless for any loss,
+damage, claim or action resulting from MA’s failure to comply with any of MA’s obligations under this
+Agreement. MA will be solely responsible for any claims, warranties or representations made by MA or
+MA's representatives or agents, which differ from the warranties, provided by Company in the
+applicable end user license agreement(s).
+
+18. Termination.
+
+18.1 This Agreement may be terminated by either party at the expiration of its term or
+any renewal term upon thirty (30) days written notice to the other party. Company
+acknowledges that this Agreement shall not be terminated for MA’s failure to follow an
+operating plan, standard procedure, training manual, or substantial equivalent published
+in Paragraph 3 (k) of this Agreement, except that Company does reserve the right to
+terminate this Agreement for MA’s failure to follow required procedures relating to the
+processing of sales contracts, invoices and billing related to Technology sold under this
+Agreement.
+
+18.2 Either party may cancel this Agreement upon the occurrence of any of the
+following:
+
+(a) Material breach of any covenant, term, condition or other provisions of this
+Agreement, which breach is not remedied within ten (10) days after notice
+of such breach is received by the breaching party;
+
+(b) Bankruptcy, reorganization, arrangement or insolvency proceedings being
+instituted by or against a party;
+
+(c) An assignment by a party for the benefit of its creditors;
+
+(d) Consenting to the appointment of a trustee or receiver by a party, or a
+trustee or receiver being appointed for a party or for a substantial part of its
+assets.
+
+18.3 Upon termination or cancellation of this Agreement for any reason:
+
+(a) All obligations of the non-breaching party, should cancellation be due to
+breach, shall immediately cease;
+
+(b) MA shall return any and all full and/or partial copies of material related to
+the Technology, including demonstrations of the Technology, in MA’s
+possession or under its control to Company within ten (10) days following
+the termination or cancellation date of this Agreement;
+
+Source: CYBERGY HOLDINGS, INC., 10-Q, 5/20/2014
