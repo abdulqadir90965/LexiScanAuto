@@ -7,7 +7,7 @@ LexiScan Auto is designed to extract key legal entities such as Party Names,
 Dates, Monetary Amounts, Jurisdiction, and Agreement Types from unstructured
 legal PDF documents.
 
-## Step 7A: Named Entity Definitions (NER Schema)
+Named Entity Definitions (NER Schema)
 
 | Entity | Description | Example |
 |------|------------|--------|
@@ -18,7 +18,7 @@ legal PDF documents.
 | JURISDICTION | Governing law | India, California |
 | TERM | Contract duration | 5 years |
 
-## Step 7B: BIO Tagging Scheme
+BIO Tagging Scheme
 
 The BIO (Beginning–Inside–Outside) tagging scheme is used for Named Entity
 Recognition to represent entity spans at the token level.
